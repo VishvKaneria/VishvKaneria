@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @VishvKaneria
 
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Google Cloud Platform
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Google Cloud Platform.
 - 📫 How to reach me: Gmail - vishv.kaneria@gmail.com
 
 <!---
