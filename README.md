@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VishvKaneria
 
 - 👀 I’m interested in Cloud Computing.
-- 🌱 I’m currently learning Google Cloud Platform.
+- 🌱 Recently cracked Google Cloud Certified Associate Cloud Engineer exam.
 - 📫 How to reach me: [Gmail - Here](vishv.kaneria@gmail.com), [LinkedIn - @Vishv Kaneria](https://www.linkedin.com/in/vishv-kaneria/)
 
 <!---
